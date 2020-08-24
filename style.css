@@ -1,0 +1,21 @@
+.container{
+    margin-bottom: 50px;
+}
+
+.carousel-item{
+    
+    padding: 40px 60px;
+    height: 600px;
+}
+.buy{
+    background-color: black;
+    color:#fff;
+
+}
+.div-1{
+    text-align: left;
+
+}
+#laptop{
+    margin-top: 100px;
+}
